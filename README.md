@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick Molera</h1>
-<h3 align="center">A frontend developer based from Philippines</h3>
+<h3 align="center">A frontend developer based from Philippines.</h3>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
