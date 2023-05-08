@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick Molera</h1>
-<h3 align="center">A frontend developer based from Philippines</h3>
+<h3 align="center">A frontend developer based from Philippines.</h3>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,5 +20,5 @@
 <div style="display:flex;" align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=patrickmolera&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickmolera&theme=vue-dark&hide_border=true" />
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmolera&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmolera&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
