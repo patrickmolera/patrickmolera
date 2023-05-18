@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patrick Molera</h1>
+<h1 align="center">Hi 👋, I'm Patrick Molera 👨‍💻</h1>
 <h3 align="center">A frontend developer based from Philippines.</h3>
 
 <p>
